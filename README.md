@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning Keras
 - 💬 Ask me about R, tidyverse
-- 📫 How to reach me: [@_KonstantinR](https://twitter.com/_KonstantinR_)
+- 📫 How to reach me: [@_KonstantinR_](https://twitter.com/_KonstantinR_)
