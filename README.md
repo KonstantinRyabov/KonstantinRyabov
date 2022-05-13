@@ -4,5 +4,5 @@
 
 - 🌱 I use R, SQL in work and in my own projects. R helps me to prepare data and economy my time. Also R community have useful libraries([tidyverse](https://www.tidyverse.org/) + [data.table](https://rdatatable.gitlab.io/data.table/)), which 
 I use in my usual practice.
-- 💬 Ask me about R, tidyverse
+- 💬 Ask me about R, tidyverse, data.table
 - 📫 How to reach me: [@_KonstantinR_](https://twitter.com/_KonstantinR_)
