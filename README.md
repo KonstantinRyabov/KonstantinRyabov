@@ -7,7 +7,7 @@
 ## percentage of used
 ```mermaid
  pie
-   "SQL" : 80
+   "MS SQL" : 80
    "Python(pandas)" : 15
    "R(tidyverse)" : 5 
 ```
