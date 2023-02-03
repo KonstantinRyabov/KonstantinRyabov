@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-- 💬 Ask me about R, tidyverse, SQL
-- 📫 How to reach me: [@_KonstantinR_](https://twitter.com/_KonstantinR_)  
+- 💬 Ask me about SQL, R, Python
+- 📫 How to reach me: [@_KonstantinR_](https://twitter.com/_KonstantinR_)
+
+## percentage of used
 ```mermaid
- flowchart TD
-    A[SQL]
-    B[R lang]
-    B-->C[tidyverse]
-    C-->D(dplyr);
-    C-->E(tidyr)
+ pie
+   "SQL" : 80
+   "Python(pandas)" : 15
+   "R(tidyverse)" : 5 
 ```
