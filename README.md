@@ -2,7 +2,8 @@
 
 
 - 💬 Ask me about SQL, R, Python
-- 📫 How to reach me: [@_KonstantinR_](https://twitter.com/_KonstantinR_)  
+- 📫 How to reach me: [@_KonstantinR_](https://twitter.com/_KonstantinR_)
+- ⚗️ email: chachabooms@gmail.com
 
 ## percentage of used
 ```mermaid
