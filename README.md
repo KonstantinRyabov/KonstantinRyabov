@@ -2,7 +2,6 @@
 
 
 - 💬 Ask me about SQL, R, Python
-- 📫 How to reach me: [@_KonstantinR_](https://twitter.com/_KonstantinR_)
 
 ## percentage of used
 ```mermaid
