@@ -6,7 +6,7 @@
 ## percentage of used
 ```mermaid
  pie
-   "MS SQL" : 80
-   "Python(pandas)" : 15
-   "R(tidyverse)" : 5 
+   "MS SQL" : 20
+   "ClickHouse" : 40
+   "Python(airflow)" : 40
 ```
